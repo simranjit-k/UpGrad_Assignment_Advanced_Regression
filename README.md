@@ -31,7 +31,7 @@ To have an impact on the company's strategy and direct attention to areas that w
 
 ## Conclusions
 
-**Ridge Regression Analysis Results:
+Ridge Regression Analysis Results:
 
 - Optimal alpha value : 7.0
 - Mean Squared Error (MSE) on train set : 0.0104
@@ -40,7 +40,7 @@ To have an impact on the company's strategy and direct attention to areas that w
 - R-squared value on test set : 0.8882
 
 
-**Lasso Regression Analysis Results:
+Lasso Regression Analysis Results:
 
 - Optimal alpha value : 0.0004
 - Mean Squared Error (MSE) on train set : 0.0106
