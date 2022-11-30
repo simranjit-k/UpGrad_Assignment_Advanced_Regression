@@ -1,5 +1,6 @@
-# Project Name
-> Outline a brief description of your project.
+# Surprise Housing - Advanced Regression Assignment
+The goal is to use the available independent variables to model the cost of homes.The management will then utilize this model to determine exactly how the prices fluctuate depending on the variables. As a result, they can influence the company's strategy and concentrate on areas that will provide large returns.
+The model will also help management better understand how prices change in a new market.
 
 
 ## Table of Contents
